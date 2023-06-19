@@ -1,6 +1,17 @@
-# MLOps
 
+
+# MLOps
 MLOps (Machine Learning Operations) refers to the set of practices and tools used to streamline and automate the lifecycle management of machine learning models. Here are some key features of MLOps:
+<details>
+  <summary>Click to expand!</summary>
+
+  ## 
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 
 ## Model Development and Versioning: MLOps provides tools and frameworks to manage the development of machine learning models, including version control systems to track changes, collaborate, and reproduce results.
 
